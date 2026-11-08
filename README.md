@@ -2,7 +2,7 @@
 
 An end-to-end revenue analysis of the Superstore retail dataset, built with **Excel** (data audit, cleaning, Pivot Tables) and **Power BI** (data model, DAX, interactive dashboard). The project identifies when demand peaks, which product categories actually make money, and how discounting affects profit.
 
-![Power BI Dashboard](../screenshots/01_powerbi_dashboard.png)
+![Power BI Dashboard](../Screenshots/01_powerbi_dashboard.png)
 
 ---
 
